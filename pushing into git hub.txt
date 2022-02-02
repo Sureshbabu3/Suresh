@@ -1,4 +1,0 @@
-practicing 
-git add
-git commit 
-push
